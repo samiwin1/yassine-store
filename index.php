@@ -170,7 +170,7 @@ session_start();
                         <a href=""><i class="icofont icofont-iphone"></i> 56112441</a>
                      </li>
                      <li class="list-inline-item border-right py-1 pr-2 mr-2">
-                        <a href="contact-us.html"><i class="icofont icofont-headphone-alt"></i> Contact Us</a>
+                        <a href="contact-us.php"><i class="icofont icofont-headphone-alt"></i> Contact Us</a>
                      </li>
                      <li class="list-inline-item">
                         <span>Download App</span> &nbsp;
